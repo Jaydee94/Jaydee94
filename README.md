@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I`m a cloud engineer and kubernetes/OpenShift admin from Germany!
+## I`m a cloud engineer and Kubernetes/OpenShift admin from Germany!
 
 - 🔭 I’m currently working on kubeseal-webgui
 
