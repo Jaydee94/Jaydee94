@@ -2,17 +2,6 @@
 
 ## I`m a cloud engineer and Kubernetes/OpenShift admin from Germany!
 
-- 🔭 I’m currently working on kubeseal-webgui
-
-
-### Connect with me:
-
-[<img align="left" alt="_jaydee94_ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
-<br />
-
-[twitter]: https://twitter.com/_jaydee94_
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -25,5 +14,6 @@
 <img align="left" alt="Python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
 <img align="left" alt="Helm" width="26px" src="https://helm.sh/img/helm.svg" />
 <img align="left" alt="Kubernetes" width="26px" src="https://user-images.githubusercontent.com/19824574/41482054-47a3a702-70a2-11e8-9561-de51c5f71220.png" />
+<img align="left" alt="Golang" width="26px" src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Aqua.svg" />
 
 <br />
