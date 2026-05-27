@@ -10,7 +10,6 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/Jaydee94?label=Followers&style=for-the-badge&logo=github&color=6E57F7&labelColor=1a1b27)](https://github.com/Jaydee94)
 [![GitHub stars](https://img.shields.io/github/stars/Jaydee94?label=Stars&style=for-the-badge&logo=github&color=f7c52d&labelColor=1a1b27)](https://github.com/Jaydee94?tab=repositories)
-[![Profile Views](https://komarev.com/ghpvc/?username=Jaydee94&style=for-the-badge&color=6E57F7&labelColor=1a1b27&label=Profile+Views)](https://github.com/Jaydee94)
 
 </div>
 
@@ -26,22 +25,19 @@ focus:
   - Kubernetes & OpenShift in production
   - GitOps with ArgoCD and Tekton
   - Building open-source tooling for cloud-native teams
-currently_learning:
-  - Rust 🦀
-  - Go deep-dives (concurrency patterns)
 fun_fact: I run my home lab on a Raspberry Pi cluster and a UGREEN NAS.
 ```
 
-I'm a Cloud Engineer who lives at the intersection of **platforms, automation, and developer experience**. By day I work with Kubernetes and OpenShift clusters; by night I build open-source tools that make cloud-native workflows less painful — and occasionally mod *7 Days to Die* for fun.
+I'm a Cloud Engineer who lives at the intersection of **platforms, automation, and developer experience**. By day I work with Kubernetes and OpenShift clusters; by night I build open-source tools that make cloud-native workflows less painful.
 
 ---
 
 ## 🚀 What I'm Working On
 
-- 🔭 **Open source** — maintaining [`kubeseal-webgui`](https://github.com/Jaydee94/kubeseal-webgui), a community-favorite Web UI for Bitnami Sealed Secrets
-- 🤖 **AI tooling** — exploring practical LLM workflows with [`parselmouth`](https://github.com/Jaydee94/parselmouth), an AI-powered document renamer built on Google Gemini
-- 🧪 **Experiments** — local Kubernetes playgrounds with Tekton + ArgoCD ([`kind-tekton-argocd`](https://github.com/Jaydee94/kind-tekton-argocd))
-- 🏠 **Home lab** — self-hosting Paperless-ngx on UGREEN NAS, fully provisioned with Ansible
+- 🔭 **Open source** — maintaining [`kubeseal-webgui`](https://github.com/Jaydee94/kubeseal-webgui), a community Web UI for Bitnami Sealed Secrets
+- 🦀 **Rust** — building [`hoppr`](https://github.com/Jaydee94/hoppr)
+- 🐍 **Python** — working on [`day-pilot`](https://github.com/Jaydee94/day-pilot)
+- 🏠 **Home lab** — provisioning my self-hosted stack with Ansible ([`home-server`](https://github.com/Jaydee94/home-server))
 
 ---
 
@@ -69,9 +65,7 @@ I'm a Cloud Engineer who lives at the intersection of **platforms, automation, a
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 </td>
 <td valign="top" width="33%">
@@ -97,14 +91,11 @@ I'm a Cloud Engineer who lives at the intersection of **platforms, automation, a
   <a href="https://github.com/Jaydee94/kubeseal-webgui">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jaydee94&repo=kubeseal-webgui&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
   </a>
-  <a href="https://github.com/Jaydee94/parselmouth">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jaydee94&repo=parselmouth&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
+  <a href="https://github.com/Jaydee94/hoppr">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jaydee94&repo=hoppr&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
   </a>
-  <a href="https://github.com/Jaydee94/kriff">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jaydee94&repo=kriff&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
-  </a>
-  <a href="https://github.com/Jaydee94/kind-tekton-argocd">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jaydee94&repo=kind-tekton-argocd&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
+  <a href="https://github.com/Jaydee94/day-pilot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jaydee94&repo=day-pilot&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
   </a>
 </div>
 
@@ -116,10 +107,10 @@ I'm a Cloud Engineer who lives at the intersection of **platforms, automation, a
 | Project | What it does | Stack |
 |---------|--------------|-------|
 | 🔐 [**kubeseal-webgui**](https://github.com/Jaydee94/kubeseal-webgui) | Web UI for Bitnami Sealed Secrets — encrypt secrets without touching the CLI | Vue.js · Python · Helm |
-| 🔍 [**kriff**](https://github.com/Jaydee94/kriff) | Kubernetes Role Diff — compare RBAC roles at a glance | Python |
-| 🤖 [**parselmouth**](https://github.com/Jaydee94/parselmouth) | AI-powered document renaming CLI using Google Gemini | Python · Gemini AI |
-| 🚀 [**kind-tekton-argocd**](https://github.com/Jaydee94/kind-tekton-argocd) | Local k3s cluster demo with Tekton + ArgoCD | Kubernetes · GitOps |
-| 📄 [**ugreen-paperless**](https://github.com/Jaydee94/ugreen-paperless) | Run Paperless-ngx on a UGREEN NAS with Docker | Docker · Self-Hosting |
+| 🐹 [**tether**](https://github.com/Jaydee94/tether) | Go utility project | Go |
+| 🧩 [**TinyTeller**](https://github.com/Jaydee94/TinyTeller) | Small TypeScript app | TypeScript |
+| 🐱 [**fantasy-pokedex**](https://github.com/Jaydee94/fantasy-pokedex) | Host your own fantasy Pokédex | Vue.js |
+| 🖥️ [**home-server**](https://github.com/Jaydee94/home-server) | Home server provisioning & self-hosting setup | Ansible |
 | ⚔️ [**advent-of-code**](https://github.com/Jaydee94/advent-of-code) | Advent of Code solutions, mostly in Go | Go |
 
 </details>
@@ -133,26 +124,14 @@ I'm a Cloud Engineer who lives at the intersection of **platforms, automation, a
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaydee94&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&langs_count=8" alt="Top Languages" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Jaydee94&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jaydee94&theme=tokyo-night&hide_border=true&area=true&bg_color=1a1b27" alt="Contribution Graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jaydee94&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
-</div>
-
 ---
 
 ## 🏠 Home Lab Setup
 
 A personal playground where I break things on purpose so I don't break them at work.
 
-- 📦 **Paperless-ngx** on a UGREEN NAS for paperless document management
-- 🔁 **Ansible** playbooks for provisioning, patching, and configuration drift
+- 📦 **Self-hosted services** (incl. Paperless-ngx) running on a UGREEN NAS
+- 🔁 **Ansible** playbooks for provisioning, patching, and config — see [`home-server`](https://github.com/Jaydee94/home-server)
 - ☸️ **Raspberry Pi Kubernetes cluster** for experimenting with manifests and operators
 - 🖥️ **VPS fleet** managed via Infrastructure-as-Code
 - 📈 **Prometheus + Grafana** for keeping an eye on it all
@@ -163,8 +142,7 @@ A personal playground where I break things on purpose so I don't break them at w
 
 ## 📫 Let's Connect
 
-[![X / Twitter](https://img.shields.io/badge/@_jaydee94__-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/_jaydee94_)
-[![GitHub](https://img.shields.io/badge/Jaydee94-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaydee94)
+[![Email](https://img.shields.io/badge/janherber21@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janherber21@gmail.com)
 
 <br/>
 
